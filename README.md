@@ -54,7 +54,7 @@ sysCmd={shell_cmd}
 ![image](https://hackmd.io/_uploads/H1hqk6FtC.png)
 
 ## Reference
-https://www.totolink.tw/products_view/N302RE
-https://www.totolink.tw/products_view/N300RT
-https://totolink.tw/support_view/A3002RU
-https://totolink.tw/support_view/N150RT
+- https://www.totolink.tw/products_view/N302RE
+- https://www.totolink.tw/products_view/N300RT
+- https://totolink.tw/support_view/A3002RU
+- https://totolink.tw/support_view/N150RT
