@@ -38,7 +38,7 @@ sysCmd={shell_cmd}
 ![image](https://hackmd.io/_uploads/H1jjAhKKR.png)
 
 **Check gained root permission**
-- shell cmd: `echo %USER`
+- shell cmd: `echo $USER`
 ![image](https://hackmd.io/_uploads/Syt0BhFFA.png)
 
 ## Affected products
