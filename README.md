@@ -48,8 +48,14 @@ sysCmd={shell_cmd}
 **TOTOLINK-CX-N150RT-V2.1.6-B20171121.1002**
 ![image](https://hackmd.io/_uploads/r1ZV1pYYA.png)
 
+**TOTOLINK-CX-N300RT-V2.1.6-B20170724.1420**
+![image](https://hackmd.io/_uploads/rkLFcBy9A.png)
+
 **TOTOLINK-CX-N300RT-V2.1.8-B20171113.1408**
 ![image](https://hackmd.io/_uploads/BJe4w1aYY0.png)
+
+**TOTOLINK-CX-N300RT-V2.1.8-B20191010.1107**
+![image](https://hackmd.io/_uploads/rkY3qHk5C.png)
 
 **TOTOLINK-CX-N302RE-V2.0.2-B20170511.1523**
 ![image](https://hackmd.io/_uploads/H1hqk6FtC.png)
