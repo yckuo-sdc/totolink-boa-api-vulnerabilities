@@ -1,11 +1,13 @@
-# TOTOLINK using Boa API vulnerabilities
+![image](https://github.com/user-attachments/assets/32927f4e-ae57-4b18-8cdf-e67240759d80)# TOTOLINK using Boa API vulnerabilities
 
 ## Overview
 Some TOTOLINK products using Boa API function are vulnerable to OS Command Injection.
 ## Products Affected
 - TOTOLINK-CX-A3002RU-V1.0.4-B20171106.1512
 - TOTOLINK-CX-N150RT-V2.1.6-B20171121.1002
+- TOTOLINK-CX-N300RT-V2.1.6-B20170724.1420
 - TOTOLINK-CX-N300RT-V2.1.8-B20171113.1408
+- TOTOLINK-CX-N300RT-V2.1.8-B20191010.1107
 - TOTOLINK-CX-N302RE-V2.0.2-B20170511.1523
 
 ## Description
