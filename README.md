@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/32927f4e-ae57-4b18-8cdf-e67240759d80)# TOTOLINK using Boa API vulnerabilities
-
+# TOTOLINK using Boa API vulnerabilities
 ## Overview
 Some TOTOLINK products using Boa API function are vulnerable to OS Command Injection.
 ## Products Affected
